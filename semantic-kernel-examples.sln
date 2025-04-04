@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingChat", "StreamingC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionCalling", "FunctionCalling\FunctionCalling.csproj", "{3FC6D6A5-9FDF-46C4-9335-B0520B035617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentGroupChat", "AgentGroupChat\AgentGroupChat.csproj", "{5E2BF335-A873-4BF6-8CFD-1043B9BD836B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3FC6D6A5-9FDF-46C4-9335-B0520B035617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC6D6A5-9FDF-46C4-9335-B0520B035617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC6D6A5-9FDF-46C4-9335-B0520B035617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2BF335-A873-4BF6-8CFD-1043B9BD836B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2BF335-A873-4BF6-8CFD-1043B9BD836B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2BF335-A873-4BF6-8CFD-1043B9BD836B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2BF335-A873-4BF6-8CFD-1043B9BD836B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
